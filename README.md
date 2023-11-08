@@ -1,5 +1,5 @@
-## dataTA
-repo data tugas akhir dicoding
+## Data Tugas Akhir Dicoding
+Data tugas akhir dicoding
 
 ## Setup environment
 ```
